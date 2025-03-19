@@ -1,0 +1,25 @@
+Yêu Cầu: download nodejs và MySQL
+
+link download MySQL: https://dev.mysql.com/downloads/file/?id=536787
+Link Hd cai dat: https://www.youtube.com/watch?v=Z6xSj0A1FYw 
+
+Link download nodejs: https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi
+link hd cai dat: https://www.youtube.com/watch?v=RgKpSjjcrig
+
+CSDL o trong file MySQL bên trong public
+
+khởi chạy bang câu lệnh: 
+
+- npm install dotenv express body-parser mysql2 path express-session express-mysql-session cors socket.io
+ 
+- npm start trong file server.js
+
+tài khoản mật khẩu là 
+
+admin 123
+admin1 123
+test 123	
+
+có thể check o trong MySQL
+
+bất cứ thắc mắc gì ib ngay
